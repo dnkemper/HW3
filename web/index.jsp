@@ -32,10 +32,9 @@
                         <td>Post-tax Deduct:</td>
                         <td><input type="text" name="postTaxDeduct" value="" size="50" required ></td>
                     </tr>
-       
             </table>
-            <input type="reset" value="Clear" id="clear">
-            <input type="submit" value="Submit" id="submit">
+            <br><input type="reset" value="Clear" id="clear">
+                    <input type="submit" value="Submit" id="submit">
         </form>
     </body>
 </html>
