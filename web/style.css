@@ -9,12 +9,29 @@ and open the template in the editor.
 */
 
 body{
-    background-color: aquamarine;
+    background-color: royalblue;
     font-family: sans-serif;
     color: white;     
 }
 h1{
     font-size: 16pt;
     text-align: center;
+}
+table {
+    table-layout:initial;
+    background: white;
+    color: black;
+    width: 50%;
+    font-weight: bold;
+}
+table, th, td {
+    border: 1px solid black;
+    text-align: left;
+    padding: 5px;
+    
+}
+td {
+    height: 10px;
+    vertical-align: middle;
 }
 
