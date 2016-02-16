@@ -62,6 +62,6 @@
                 <tr><td>Post-tax Deduct:</td><td><input type="text" name="postTaxDeduct" value="<%=postTaxDeduct%>" disabled="disabled"></td></tr>
                 <tr><td>Net Pay:</td><td><input type="text" name="netPay" value="<%=netPay%>"></td></tr>
         </table>
-                    <a href="http://msci3300-s1606.cloudapp.net:8800/HW3/"/> Back to Calculator </a>
+                    <a href="http://msci3300-s1606.cloudapp.net:8800/HW3/index.jsp"/> Back to Calculator </a>
     </body>
 </html>
